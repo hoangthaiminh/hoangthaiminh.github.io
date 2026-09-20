@@ -1,10 +1,12 @@
 Copyright (c) 2026 TK6_ThaiMinhHoang (a.k.a Lugament_Remix). All Rights Reserved.
 
-This software and associated documentation files (the "Software") are the proprietary property of the Copyright Holder. 
+Permission is hereby GRANTED to any person obtaining a copy of this software and associated source files, including HTML, CSS, JavaScript, and documentation (the "Software"), to:
+1. Download, clone, store, and view the Software on a local device.
+2. Edit, modify, and run the Software locally, strictly for personal, educational, or academic research purposes.
 
-Permission is hereby DENIED to any person obtaining a copy of this Software to:
-1. Copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software.
-2. Reverse engineer, decompile, or disassemble any portion of the Software.
-3. Use the Software for commercial purposes.
+Permission is hereby DENIED to any person to:
+1. Publicly fork, republish, redistribute, mirror, host, or share the Software (or any modified version of it) on GitHub, web hosts, or any public platform.
+2. Sell, sublicense, monetize, or use the Software (or any portion of its code, design, or logic) for any commercial purpose, client project, or financial gain.
+3. Package or include the Software in any publicly accessible website, web service, or commercial application.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

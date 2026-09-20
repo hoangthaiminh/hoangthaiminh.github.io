@@ -59,14 +59,15 @@ All core architecture, concepts, and features were independently conceived and b
 
 ## Note
 
-**This repository is not an open-source software project.**
+**This repository is not open-source.**
 
-Publicly accessible does not mean open source.
+Public visibility on GitHub does not grant open-source rights.
 
 ## License
 
-All rights reserved. 
+All rights reserved.
 
-This repository and its source code are strictly **proprietary and confidential**. Public access to this repository does not grant any rights to use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the software. 
+- **Allowed:** Download, clone, view, and edit this code **locally** for personal, educational, or research purposes.
+- **Prohibited:** Publicly forking, republishing, hosting, sharing, selling, or using any part of this project for **commercial use**.
 
-Unauthorized copying, distribution, or modification of any part of this repository via any medium is strictly prohibited.
+*For full legal terms, see the [LICENSE](./LICENSE) file.*
