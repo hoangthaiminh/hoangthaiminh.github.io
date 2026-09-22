@@ -19,8 +19,8 @@ This repository is intended primarily for source-code storage, version control, 
 
 |Percent|Language|Code|
 |-|-|-|
-|$\approx 98.7\%$|__Vietnamese__|[`vi-VN`](https://en.wikipedia.org/wiki/Vietnamese_language)|
-|$\approx 1.3\%$|__English__|[`en-US`](https://en.wikipedia.org/wiki/American_English)|
+|$\approx 98.46\%$|__Vietnamese__|[`vi-VN`](https://en.wikipedia.org/wiki/Vietnamese_language)|
+|$\approx 1.54\%$|__English__|[`en-US`](https://en.wikipedia.org/wiki/American_English)|
 
 
 ### **Programming languages:**
